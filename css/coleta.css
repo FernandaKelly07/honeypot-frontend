@@ -1,0 +1,35 @@
+.radioHorizontal input {
+}
+
+@media (max-width: 911px) {
+  .inputColum2 {
+    margin-bottom: 20px;
+    width: 450px;
+    display: block;
+  }
+
+  .rowSpacebetween {
+    display: block;
+  }
+
+  .inputRow {
+    width: 450px;
+  }
+}
+
+/* 554 */
+
+@media (max-width: 584px) {
+  .inputColum2 {
+    margin-bottom: 20px;
+    width: 150px;
+  }
+
+  .rowSpacebetween {
+    display: block;
+  }
+
+  .inputRow {
+    width: 150px;
+  }
+}
